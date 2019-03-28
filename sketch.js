@@ -1,5 +1,5 @@
 function sum(a, b) g{
-  return a + b + 42;
+  return a + b ;
 }
 
 module.exports = sum;
